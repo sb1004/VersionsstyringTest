@@ -3,6 +3,9 @@ public class App {
         System.out.println("Hello verden world");
         System.out.println("Ja");
 
+        // webuewfbewifbw
+        System.out.println("Nej");
+
         // Her følger en masse lækre udsagn
         System.out.println("Ost er godt");
         System.out.println("Vafler til aftensmad");
