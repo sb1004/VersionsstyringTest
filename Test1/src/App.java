@@ -3,4 +3,8 @@ public class App {
         System.out.println("Hello verden world");
         System.out.println("Ja");
     }
+
+    public int number () {
+        return 1;
+    }
 }
