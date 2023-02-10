@@ -8,4 +8,8 @@ public class App {
         System.out.println("Vafler til aftensmad");
         System.out.println("PIZZA!!");
     }
+
+    public int number () {
+        return 1;
+    }
 }
